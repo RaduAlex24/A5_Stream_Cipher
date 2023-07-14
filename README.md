@@ -1,2 +1,2 @@
-# A5_Stream_Cipher
+# A5 Stream Cipher
 This repository contains my distinct implementations of the A5/1 stream cipher algorithm in Java and Assembly language. The A5/1 stream cipher is a symmetric key algorithm used in mobile communications, particularly in the Global System for Mobile Communications (GSM). The cipher uses a linear feedback shift register setup to generate a pseudorandom sequence, which is then bitwise XORed with the plaintext to produce the ciphertext. My Java implementation demonstrates the algorithm's clarity and simplicity, while the Assembly version, delves into lower-level programming nuances. This dual-perspective approach lends a deep understanding of the A5/1 stream cipher and its role in data encryption.
